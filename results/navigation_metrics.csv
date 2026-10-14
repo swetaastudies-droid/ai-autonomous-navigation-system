@@ -1,0 +1,6 @@
+steps,reached_goal,path_length
+18,False,20
+36,True,2
+36,True,2
+6,False,32
+21,False,17
