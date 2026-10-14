@@ -82,6 +82,6 @@ This is a software simulation. Obstacle perception uses the simulated environmen
 
 ## Author
 
-**Your Name**
+**K B SWETAA**
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+GitHub: https://github.com/swetaastudies-droid/ai-autonomous-navigation-system
