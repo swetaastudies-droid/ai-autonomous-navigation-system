@@ -65,7 +65,13 @@ This is a software simulation. Obstacle perception uses the simulated environmen
 
 ## Screenshots
 
-Screenshots of the running simulation and successful navigation will be added here.
+### Successful Navigation Simulation
+
+![Autonomous navigation simulation showing the grid environment](assets/screenshots/06-goal-reached.PNG)
+
+### GitHub Repository
+
+![Project repository published on GitHub](assets/screenshots/07-github-repository.PNG)
 
 ## Future Improvements
 
